@@ -6,6 +6,7 @@ class ReverseString {
         String str= "Geeks", nstr="";
         char ch;
 
+        System.out.println("This program prints the reverse of a String that is hardcoded.");
         System.out.print("Original word: ");
         System.out.println("Geeks"); //Example word
 
